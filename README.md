@@ -17,9 +17,9 @@
 - Desarrollos que involucren la integración de APIs.
 
 ## 📫 How to reach me ...
-- Email: miguelangelramirez03@example.com
-- LinkedIn: [miguelangelramirez03](https://www.linkedin.com/in/miguelangelramirez03)
-- Twitter: [@miguelangelramirez03](https://x.com/marp0604_dev)
+- Email: marp0604.programador@gmail.com
+- LinkedIn: [Miguel Angel Ramirez Perez]([https://www.linkedin.com/in/miguelangelramirez03](https://www.linkedin.com/in/miguel-angel-ramirez-perez-a7150a334/))
+- Twitter: [@marp0604_dev](https://x.com/marp0604_dev)
 
 ## 😄 Pronouns: ...
 - He/Him (Él)
